@@ -1,0 +1,22 @@
+canvas {
+  border: 1px solid black;
+  z-index: -1;
+}
+
+body {
+  margin: 0;
+  height: 96vh;
+  width: 96vh;
+}
+
+#header {
+  font-family: "Bubblegum Sans", cursive;
+  font-size: 40px;
+  background-color: lightgrey;
+  border: 1px solid #000000;
+  border-radius: 10px;
+  width: 150px;
+  height: 50px;
+  text-align: center;
+  opacity: 0.2;
+}
